@@ -76,7 +76,7 @@ The **Presentation Analytics** feature provides insightful data to help you trac
 - **Icons**: The SVG used for the graph icon helps convey the idea of analytics at a glance. You can customize this further by changing the color, size, or icon itself.
 - **Description**: The brief paragraph under the title gives users a clear understanding of what they can do with this feature—track interactions with individual slides.
 
-![Presentation Analytics](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/Presentation analytics.png?raw=true)
+![Presentation Analytics](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/Presentation%20analytics.png)
 
 ---
 
@@ -106,7 +106,7 @@ With **Unbranded Exports**, your presentations are completely customizable to yo
 
 This feature is ideal when you want your exported documents to represent only your brand.
 
-![Unbranded Exports](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/unbranded_export.png?raw=true)
+![Unbranded Exports](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/Unbranded%20exports.png)
 
 ---
 
@@ -136,7 +136,7 @@ In collaborative environments, it's essential to have high-quality assets at you
 
 This feature ensures that all the visual assets used in your presentations remain clear and professional.
 
-![High-Resolution Assets](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/high_res_assets.png?raw=true)
+![High-Resolution Assets](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/high-res.png)
 
 ---
 
@@ -175,7 +175,7 @@ Efficient collaboration is key to success. With **Roles and Guests Management**,
 
 This feature is essential for ensuring secure collaboration on presentations by limiting access and permissions.
 
-![Roles and Guests](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/roles.png?raw=true)
+![Roles and Guests](https://github.com/Haroonhsa007/FrontEndDev-Features-to-Win-Work/blob/main/roles.png)
 
 ---
 
